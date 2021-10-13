@@ -1,0 +1,7 @@
+EXPORTS
+	iconv_open
+	iconv
+	iconv_close
+	uc_iconv_open
+	uc_iconv
+	uc_iconv_close
